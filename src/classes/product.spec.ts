@@ -10,6 +10,6 @@ describe('Product', () => {
   it('should have properties name and price', () => {
     const sut = createSut('MacOS', 99.99);
     expect(sut).toHaveProperty('name', 'MacOS');
-    expect(sut.price).toBeCloseTo(49.99);
+    expect(sut.price).toBeCloseTo(99.99);
   });
 });
