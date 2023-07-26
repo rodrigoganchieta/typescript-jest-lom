@@ -5,9 +5,9 @@ Projeto desenvolvido para fixar os conceitos de TypeScript e testes com Jest do 
 ### Configurações:
 
 - Instale e configure o Node.js
-- Npm install
-- Npm test
-- Npm run test:silent
+- npm install
+- npm test
+- npm run test:silent
 
 Para mais detalhes entre em contato.
 
